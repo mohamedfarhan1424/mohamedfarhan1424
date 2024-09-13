@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mohamed Farhan S</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=baskerville&weight=900&size=25&pause=1000&color=F5F7EC&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Farhan+S" alt="Typing SVG">
+  </a>
+</div>
 <h3 align="center">A Developer from Tamilnadu, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedfarhan1424&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedfarhan1424" /> </p>
