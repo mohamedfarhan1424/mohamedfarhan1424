@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=baskerville&weight=900&size=25&pause=1000&color=F5F7EC&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Farhan+S" alt="Typing SVG">
   </a>
 </div>
+<h3 align="center">Founding Product Engineer of AntEngage</h3>
 <h3 align="center">A Developer from Tamilnadu, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedfarhan1424&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedfarhan1424" /> </p>
@@ -11,7 +12,7 @@
 
 - 👨🏻‍💻 <a href="https://mohamedfarhan.netlify.app/" target="_blank"> **My portfolio** </a>
 
-- 💬 Ask me about **React Js, Springboot, Node Js**
+- 💬 Ask me about **Next Js, Springboot, Node Js**
 
 - 📫 How to reach me **mohamedfarhan1424@gmail.com**
 
